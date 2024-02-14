@@ -7,13 +7,8 @@ In order to understand multithreading, we must understand how computer works.
 
 ## How old computer works?
 
-    ______Registers_________                                                     
-   |                        |                                                     
-+--|------------------------|----+                                                
-|  v                        v    |                          +--------+
-|  +-+ +-+ +-+ +-+ +-+ +-+ +-+   |                          |        |
-|  +-+ +-+ +-+ +-+ +-+ +-+ +-+   |       Instructions       |        |
-|                                |<------------------------>| RAM    |
-|         CPU                    |           Data           |        |
-|                                |                          |        |
-+--------------------------------+                          +--------+
+```mermaid
+    flowchart LR
+        CPU <--> RAM
+end
+```
