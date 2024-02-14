@@ -55,6 +55,7 @@ Each thread runs on the CPU for a short time e.g
 - Thread C runs again from where it left off, then pause
 This is done very quickly. The threads apperas to run concurrently. These threads are controlled by schedular. This can be done in different ways.
 - Pre-emptive scheduling: This is done by time slicing. A thread can run for a specific time. The schedular will interupt the thread when it has used its time slot and then another thread can run and used its time. Thread may start in any order and thread may be interupted at any time and it may be restarted at any time.
+```
 +---+  +------------+ +------------+ +------------+ +------------+ +------------+
 | A |  |   ......   | |  RUNNING   | |   ......   | |  RUNNING   | |   ......   |
 +---+  +------------+ +------------+ +------------+ +------------+ +------------+
@@ -64,6 +65,7 @@ This is done very quickly. The threads apperas to run concurrently. These thread
 +---+  +------------+ +------------+ +------------+ +------------+ +------------+
 | C |  |   ......   | |   ......   | |  RUNNING   | |  ......    | |   ......   |
 +---+  +------------+ +------------+ +------------+ +------------+ +------------+
+```
 - Priority base Pre-emptive scheduling: This is similar to pre-emptive but in this case most highest priority threads can run first.
 - Co-operative Scheduling: This is done by cooperation between threads. One threads tells other that i am finished and then next thread can run and share same data.
 
