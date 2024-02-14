@@ -7,8 +7,4 @@ In order to understand multithreading, we must understand how computer works.
 
 ## How old computer works?
 
-```mermaid
-    flowchart LR
-        CPU <--> RAM
-end
-```
+![Screenshot](HowOldComputerWorks.gif)     
