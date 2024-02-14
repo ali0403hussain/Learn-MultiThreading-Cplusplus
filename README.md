@@ -24,7 +24,7 @@ Spending significant time transferring data between the CPU (Central Processing 
 3. Bottlenecking: The speed at which the CPU can process data may exceed the speed at which data can be transferred to and from RAM. This creates a bottleneck, limiting the overall performance of the system and preventing the CPU from reaching its full potential.
 4. Power Consumption: Constantly transferring data between the CPU and RAM consumes energy, contributing to overall power consumption. In battery-powered devices like laptops or mobile devices, this can reduce battery life and lead to shorter usage times between charges.
 
-## Process VS Thread?
+## Process VS Thread
 Processes and threads are fundamental concepts in operating systems and concurrent programming. Here are the main differences between them:
 
 |                             | Process       | Thread |
