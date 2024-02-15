@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/src/app/CMakeFiles/LaunchingThread.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/01.LaunchingThreads/build/src/app/CMakeFiles/rebuild_cache.dir
