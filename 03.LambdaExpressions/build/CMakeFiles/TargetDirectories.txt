@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/src/app/CMakeFiles/LambdaExpressions.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/03.LambdaExpressions/build/src/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/src/app/CMakeFiles/FunctionArguments.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/02.FunctionArguments/build/src/app/CMakeFiles/rebuild_cache.dir
