@@ -118,6 +118,7 @@ int main()
     ThreadExceptionProblemBadSolution("Thread 3:", ThowException);
 
     //Solution Good using RAII idiom
+    ThowException = false;
     ThreadExceptionProblemGoodSolution("Thread 4:", ThowException);
     ThowException = true;
     ThreadExceptionProblemGoodSolution("Thread 5:", ThowException);
