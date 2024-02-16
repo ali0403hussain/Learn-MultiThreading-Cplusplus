@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/src/app/CMakeFiles/ThreadwithException.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/06.ThreadwithException/build/src/app/CMakeFiles/rebuild_cache.dir

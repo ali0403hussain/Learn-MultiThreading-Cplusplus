@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/src/app/CMakeFiles/ChronoDurations.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/04.ChronoDurations/build/src/app/CMakeFiles/rebuild_cache.dir
