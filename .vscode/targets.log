@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Feb 15 15:50:00 2024
+# Make data base, printed on Fri Feb 16 17:03:06 2024
 
 # Variables
 
@@ -94,6 +94,8 @@ MAKE = $(MAKE_COMMAND)
 PATH = /root/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Eclipse Adoptium/jdk-17.0.6.10-hotspot/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility:/mnt/c/mingw64/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files (x86)/Incredibuild:/mnt/c/Program Files/PuTTY/:/mnt/c/Ruby27-x64/bin:/mnt/c/Users/alihussa/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/alihussa/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/alihussa/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/alihussa/.dotnet/tools:/snap/bin
 # default
 MAKEFILES := 
+# environment
+MOTD_SHOWN = update-motd
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -109,7 +111,7 @@ LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 # automatic
 +F = $(notdir $+)
 # environment
-WSL_INTEROP = /run/WSL/243_interop
+WSL_INTEROP = /run/WSL/12_interop
 # 'override' directive
 GNUMAKEFLAGS := 
 # environment
@@ -129,7 +131,7 @@ _ = /root/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node
 # environment
 XDG_RUNTIME_DIR = /mnt/wslg/runtime-dir
 # environment
-VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-4acadf4e-da2b-4931-a076-46b1ae80198b.sock
+VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-25777a3a-65d6-410a-bfe3-9362fcd9bbaf.sock
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -149,7 +151,7 @@ WSL_DISTRO_NAME = Ubuntu
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
 # variable set hash-table stats:
-# Load=68/1024=7%, Rehash=0, Collisions=2/95=2%
+# Load=69/1024=7%, Rehash=0, Collisions=2/96=2%
 
 # Pattern-specific Variable Values
 
@@ -157,9 +159,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 64, inode 8444249301484596): 12 files, no impossibilities.
+# . (device 64, inode 8444249301484596): 15 files, no impossibilities.
 
-# 12 files, no impossibilities in 1 directories.
+# 15 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -209,12 +211,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 20 / storage = 280 B / avg = 14 B
-# current buf: size = 8162 B / used = 280 B / count = 20 / avg = 14 B
+# strcache buffers: 1 (0) / strings = 23 / storage = 337 B / avg = 14 B
+# current buf: size = 8162 B / used = 337 B / count = 23 / avg = 14 B
 
-# strcache performance: lookups = 23 / hit rate = 13%
+# strcache performance: lookups = 26 / hit rate = 11%
 # hash-table stats:
-# Load=20/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Thu Feb 15 15:50:00 2024
+# Load=23/8192=0%, Rehash=0, Collisions=0/26=0%
+# Finished Make data base on Fri Feb 16 17:03:06 2024
 
  
