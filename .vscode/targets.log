@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Feb 18 16:19:30 2024
+# Make data base, printed on Sun Feb 18 16:29:59 2024
 
 # Variables
 
@@ -54,8 +54,6 @@ CURDIR := /mnt/c/MyWorkspace/MultiThreading
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -131,7 +129,7 @@ _ = /root/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node
 # environment
 XDG_RUNTIME_DIR = /mnt/wslg/runtime-dir
 # environment
-VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-a1d4b65c-a44e-4192-8f69-d679cd8baebc.sock
+VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-9ac31650-551a-4cd9-ab7f-f8f03fa6e28a.sock
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -151,7 +149,7 @@ WSL_DISTRO_NAME = Ubuntu
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
 # variable set hash-table stats:
-# Load=69/1024=7%, Rehash=0, Collisions=2/96=2%
+# Load=68/1024=7%, Rehash=0, Collisions=1/95=1%
 
 # Pattern-specific Variable Values
 
@@ -159,9 +157,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 64, inode 8444249301484596): 16 files, no impossibilities.
+# . (device 64, inode 8444249301484596): 17 files, no impossibilities.
 
-# 16 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -211,12 +209,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 24 / storage = 356 B / avg = 14 B
-# current buf: size = 8162 B / used = 356 B / count = 24 / avg = 14 B
+# strcache buffers: 1 (0) / strings = 25 / storage = 368 B / avg = 14 B
+# current buf: size = 8162 B / used = 368 B / count = 25 / avg = 14 B
 
-# strcache performance: lookups = 27 / hit rate = 11%
+# strcache performance: lookups = 28 / hit rate = 10%
 # hash-table stats:
-# Load=24/8192=0%, Rehash=0, Collisions=0/27=0%
-# Finished Make data base on Sun Feb 18 16:19:30 2024
+# Load=25/8192=0%, Rehash=0, Collisions=0/28=0%
+# Finished Make data base on Sun Feb 18 16:29:59 2024
 
  
