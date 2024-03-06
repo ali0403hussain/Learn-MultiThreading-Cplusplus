@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/src/app/CMakeFiles/UniqueLock.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/12.UniqueLock/build/src/app/CMakeFiles/rebuild_cache.dir
