@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/src/app/CMakeFiles/InternallySynchronizedClass.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/10.InternallySynchronizedClass/build/src/app/CMakeFiles/rebuild_cache.dir
