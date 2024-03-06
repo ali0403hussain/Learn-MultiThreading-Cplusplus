@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/src/app/CMakeFiles/Mutex.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/09.Mutex/build/src/app/CMakeFiles/rebuild_cache.dir
