@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/src/app/CMakeFiles/MultipleReaderSingleWriter.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/14.MultipleReaderSingleWriter/build/src/app/CMakeFiles/rebuild_cache.dir
