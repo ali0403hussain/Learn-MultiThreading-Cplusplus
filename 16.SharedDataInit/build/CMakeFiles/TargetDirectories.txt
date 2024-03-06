@@ -1,0 +1,15 @@
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/classicSingleton/CMakeFiles/SingletonLib.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/classicSingleton/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/classicSingleton/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/cppSingleton/CMakeFiles/CppSingletonLib.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/cppSingleton/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/lib/cppSingleton/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/app/CMakeFiles/SharedDataInit.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/16.SharedDataInit/build/src/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+add_subdirectory(classicSingleton)
+add_subdirectory(cppSingleton)
