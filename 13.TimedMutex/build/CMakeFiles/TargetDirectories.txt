@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/src/app/CMakeFiles/TimedMutex.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/13.TimedMutex/build/src/app/CMakeFiles/rebuild_cache.dir
