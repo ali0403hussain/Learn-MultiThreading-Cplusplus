@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/src/app/CMakeFiles/LockGuard.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/11.LockGuard/build/src/app/CMakeFiles/rebuild_cache.dir
