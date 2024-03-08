@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Mar  6 18:09:23 2024
+# Make data base, printed on Fri Mar  8 12:12:57 2024
 
 # Variables
 
@@ -54,8 +54,6 @@ CURDIR := /mnt/c/MyWorkspace/MultiThreading
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -111,7 +109,7 @@ LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:
 # automatic
 +F = $(notdir $+)
 # environment
-WSL_INTEROP = /run/WSL/15_interop
+WSL_INTEROP = /run/WSL/12_interop
 # 'override' directive
 GNUMAKEFLAGS := 
 # environment
@@ -131,7 +129,7 @@ _ = /root/.vscode-server/bin/74f6148eb9ea00507ec113ec51c489d6ffb4b771/node
 # environment
 XDG_RUNTIME_DIR = /mnt/wslg/runtime-dir
 # environment
-VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-7de955a8-0e04-4815-9dec-5f28c58817ed.sock
+VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-3d6006c7-b1a1-4215-a54e-9b699ca7591c.sock
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
@@ -151,7 +149,7 @@ WSL_DISTRO_NAME = Ubuntu
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
 # variable set hash-table stats:
-# Load=69/1024=7%, Rehash=0, Collisions=2/96=2%
+# Load=68/1024=7%, Rehash=0, Collisions=1/95=1%
 
 # Pattern-specific Variable Values
 
@@ -159,9 +157,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 64, inode 8444249301484596): 25 files, no impossibilities.
+# . (device 64, inode 8444249301484596): 26 files, no impossibilities.
 
-# 25 files, no impossibilities in 1 directories.
+# 26 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -211,12 +209,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 33 / storage = 512 B / avg = 15 B
-# current buf: size = 8162 B / used = 512 B / count = 33 / avg = 15 B
+# strcache buffers: 1 (0) / strings = 34 / storage = 536 B / avg = 15 B
+# current buf: size = 8162 B / used = 536 B / count = 34 / avg = 15 B
 
-# strcache performance: lookups = 36 / hit rate = 8%
+# strcache performance: lookups = 37 / hit rate = 8%
 # hash-table stats:
-# Load=33/8192=0%, Rehash=0, Collisions=0/36=0%
-# Finished Make data base on Wed Mar  6 18:09:23 2024
+# Load=34/8192=0%, Rehash=0, Collisions=0/37=0%
+# Finished Make data base on Fri Mar  8 12:12:57 2024
 
  

@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/src/app/CMakeFiles/ThreadLocalVariables.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/17.ThreadLocalVariables/build/src/app/CMakeFiles/rebuild_cache.dir
