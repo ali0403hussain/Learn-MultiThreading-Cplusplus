@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/src/app/CMakeFiles/DeadLockExample.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/21.DeadLockExample/build/src/app/CMakeFiles/rebuild_cache.dir

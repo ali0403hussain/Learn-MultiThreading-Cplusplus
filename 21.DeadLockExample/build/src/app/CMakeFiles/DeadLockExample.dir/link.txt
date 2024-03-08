@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined CMakeFiles/DeadLockExample.dir/main.cpp.o -o DeadLockExample 
