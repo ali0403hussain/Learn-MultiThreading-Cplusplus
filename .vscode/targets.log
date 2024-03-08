@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Mar  8 16:02:17 2024
+# Make data base, printed on Fri Mar  8 17:25:34 2024
 
 # Variables
 
@@ -159,9 +159,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 64, inode 8444249301484596): 28 files, no impossibilities.
+# . (device 64, inode 8444249301484596): 29 files, no impossibilities.
 
-# 28 files, no impossibilities in 1 directories.
+# 29 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -211,12 +211,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 36 / storage = 582 B / avg = 16 B
-# current buf: size = 8162 B / used = 582 B / count = 36 / avg = 16 B
+# strcache buffers: 1 (0) / strings = 37 / storage = 594 B / avg = 16 B
+# current buf: size = 8162 B / used = 594 B / count = 37 / avg = 16 B
 
-# strcache performance: lookups = 39 / hit rate = 7%
+# strcache performance: lookups = 40 / hit rate = 7%
 # hash-table stats:
-# Load=36/8192=0%, Rehash=0, Collisions=0/39=0%
-# Finished Make data base on Fri Mar  8 16:02:17 2024
+# Load=37/8192=0%, Rehash=0, Collisions=0/40=0%
+# Finished Make data base on Fri Mar  8 17:25:34 2024
 
  
