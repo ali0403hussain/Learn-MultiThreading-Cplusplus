@@ -1,0 +1,7 @@
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/src/app/CMakeFiles/DoubleCheckedLocking.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/src/app/CMakeFiles/edit_cache.dir
+/mnt/c/MyWorkspace/MultiThreading/19.DoubleCheckedLocking/build/src/app/CMakeFiles/rebuild_cache.dir
