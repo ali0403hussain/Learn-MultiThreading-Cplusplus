@@ -177,3 +177,20 @@ This is done very quickly. The threads apperas to run concurrently. These thread
     - Core 2 gets the old value.
     - Core 2's thread does its computation using old value
     - Core 1's store buffer writes the new value to the cache.
+
+## How to use this Repo?
+* This repo is CMake Project.
+* This repo consist of folders conainting different sections.
+* Each folder consist of
+    - build folder which is used for build files
+    - cmake contains cmake functions for sanitizers and warnings.
+    - src contains app and app contains main.cpp file
+    - In some cases src also contains lib for library
+    - CMakeLists.txt file main cmake file
+    - Makefile Script to run for code execution and build
+
+## Repo requirements:
+* OS Linux 
+* C/C++ tool chain GNU 
+* CMake
+* Make
