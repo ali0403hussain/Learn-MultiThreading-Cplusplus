@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Mar  8 12:12:57 2024
+# Make data base, printed on Fri Mar  8 13:50:56 2024
 
 # Variables
 
@@ -54,6 +54,8 @@ CURDIR := /mnt/c/MyWorkspace/MultiThreading
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -149,7 +151,7 @@ WSL_DISTRO_NAME = Ubuntu
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
 # variable set hash-table stats:
-# Load=68/1024=7%, Rehash=0, Collisions=1/95=1%
+# Load=69/1024=7%, Rehash=0, Collisions=2/96=2%
 
 # Pattern-specific Variable Values
 
@@ -157,9 +159,9 @@ WSL_DISTRO_NAME = Ubuntu
 
 # Directories
 
-# . (device 64, inode 8444249301484596): 26 files, no impossibilities.
+# . (device 64, inode 8444249301484596): 27 files, no impossibilities.
 
-# 26 files, no impossibilities in 1 directories.
+# 27 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -209,12 +211,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 34 / storage = 536 B / avg = 15 B
-# current buf: size = 8162 B / used = 536 B / count = 34 / avg = 15 B
+# strcache buffers: 1 (0) / strings = 35 / storage = 558 B / avg = 15 B
+# current buf: size = 8162 B / used = 558 B / count = 35 / avg = 15 B
 
-# strcache performance: lookups = 37 / hit rate = 8%
+# strcache performance: lookups = 38 / hit rate = 7%
 # hash-table stats:
-# Load=34/8192=0%, Rehash=0, Collisions=0/37=0%
-# Finished Make data base on Fri Mar  8 12:12:57 2024
+# Load=35/8192=0%, Rehash=0, Collisions=0/38=0%
+# Finished Make data base on Fri Mar  8 13:50:56 2024
 
  
