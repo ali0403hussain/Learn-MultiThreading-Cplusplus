@@ -192,5 +192,5 @@ This is done very quickly. The threads apperas to run concurrently. These thread
 ## Repo requirements:
 * OS Linux 
 * C/C++ tool chain GNU 
-* CMake
+* CMake version 3.22
 * Make
